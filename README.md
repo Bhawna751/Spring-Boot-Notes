@@ -102,4 +102,7 @@ flowchart LR
 1. INTRODUCTION
    - [Spring Boot Overview](./Introduction/intro.md)
 2. [Spring Boot - REST API](./api.md)
-   
+3. PROPERTIES:
+   - [Default Properties file](./Properties/default.md)
+   - [Environment Specific properties file](./Properties/env.md)
+   - [Using YAML instean of properties](./Properties/yaml.md)
