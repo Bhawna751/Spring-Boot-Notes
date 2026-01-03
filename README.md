@@ -101,7 +101,7 @@ flowchart LR
 ----
 1. INTRODUCTION
    - [Spring Boot Overview](./Introduction/intro.md)
-   - [Developing First Spring Boot Application](./first.md)
+   - [Developing First Spring Boot Application](./Introduction/first.md)
 2. [Spring Boot - REST API](./api.md)
 3. PROPERTIES:
    - [Default Properties file](./Properties/default.md)
