@@ -35,3 +35,9 @@
   - the `main()` method:
           entry point --> `run` --> `SpringApplication` starts spring --> starts auto-configured tomcat server.
   -  `MyApplication.class` is passed as an argument to `run` to tell `SpringApplication` which is the primary Spring component.  
+
+
+**Tip:**
+````
+If you do not want to use @SpringBootApplication, the @EnableAutoConfiguration and @ComponentScan annotations that it imports defines that behavior so you can also use those instead.
+````
