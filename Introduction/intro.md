@@ -1,4 +1,6 @@
-SPRING BOOT OVERVIEW
+## SPRING BOOT OVERVIEW
+
+Spring Boot helps you to create stand-alone, production-grade Spring-based applications that you can run. 
 
 - Why Spring Boot
     - While working with Spring Framework, you might have noticed the following points:
