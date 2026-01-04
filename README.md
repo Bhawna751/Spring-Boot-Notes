@@ -102,8 +102,10 @@ flowchart LR
 1. INTRODUCTION
    - [Spring Boot Overview](./Introduction/intro.md)
    - [Developing First Spring Boot Application](./Introduction/first.md)
-2. [Spring Boot - REST API](./api.md)
-3. PROPERTIES:
+2. DEVELOPING WITH SPRING BOOT
+   - [Configuration Class](./Developing/config.md)
+4. [Spring Boot - REST API](./api.md)
+5. PROPERTIES:
    - [Default Properties file](./Properties/default.md)
    - [Environment Specific properties file](./Properties/env.md)
    - [Using YAML instean of properties](./Properties/yaml.md)
