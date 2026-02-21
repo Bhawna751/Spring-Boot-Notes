@@ -104,6 +104,7 @@ flowchart LR
    - [Developing First Spring Boot Application](./Introduction/first.md)
 2. DEVELOPING WITH SPRING BOOT
    - [Configuration Class](./Developing/config.md)
+   - [Auto-Configuration Class](./Developing/auto.md)
 4. [Spring Boot - REST API](./api.md)
 5. PROPERTIES:
    - [Default Properties file](./Properties/default.md)
