@@ -105,6 +105,7 @@ flowchart LR
 2. DEVELOPING WITH SPRING BOOT
    - [Configuration Class](./Developing/config.md)
    - [Auto-Configuration Class](./Developing/auto.md)
+   - [Spring Beans and Dependency Injection](injection.md)
 4. [Spring Boot - REST API](./api.md)
 5. PROPERTIES:
    - [Default Properties file](./Properties/default.md)
