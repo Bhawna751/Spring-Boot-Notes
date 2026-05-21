@@ -4,12 +4,12 @@
 
 ```mermaid
 flowchart LR
-    A["Spring"]
+    
     B["Read Documentation"]
     C["Spring Framework - Core"]
     D["Security"]
     E["Spring Boot"]
-    A --> B & C & D & E
+    C --> B & D & E
 
     F["Configuration"]
     G["Spring MVC"]
@@ -33,7 +33,7 @@ flowchart LR
     E --> P
     P --> Q & R & S & T
 
-    Tom["Web Servers. Tomcat & Jetty"]
+    Tom["Web Servers. Tomcat"]
     http["HTTP"]
     get["GET"]
     post["POST"]
@@ -95,8 +95,9 @@ flowchart LR
     msg1["SQS"]
     msg2["Kafka"]
     msg3["RabbitMQ"]
+    msg4["Redis"]
     micro --> dock & msg
-    msg --> msg1 & msg2 & msg3
+    msg --> msg1 & msg2 & msg3 & msg4
 ```
 ----
 1. INTRODUCTION
