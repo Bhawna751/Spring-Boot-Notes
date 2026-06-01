@@ -42,4 +42,4 @@ public class MyAccountService implements AccountService {
 
 }
   ```
-
+Tip: ```using constructor injection lets the riskAssessor field be marked as final, indicating that it cannot be changed subsequently.```
