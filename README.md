@@ -111,6 +111,7 @@ flowchart LR
    - [Spring Beans and Dependency Injection](./Developing/injection.md)
    - [Using the @SpringBootApplication Annotation](./Developing/annot.md)
    - [Running Your Application](./Developing/running.md)
+   - [Developer Tools](./Developing/devTools.md)
 4. [Spring Boot - REST API](./api.md)
 5. PROPERTIES:
    - [Default Properties file](./Properties/default.md)
