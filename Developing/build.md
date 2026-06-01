@@ -16,4 +16,5 @@
   - starters contain a lot of the dependencies that you need to get a project up and running quickly.
   - all official starters follow a naming patter:
     - ``spring-boot-starter-*``, where ``*`` is a particular type of application.
+    - this naming structure is intended to help when you need to find a starter.
 </details>
