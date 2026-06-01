@@ -109,6 +109,7 @@ flowchart LR
    - [Configuration Class](./Developing/config.md)
    - [Auto-Configuration Class](./Developing/auto.md)
    - [Spring Beans and Dependency Injection](./Developing/injection.md)
+   - [Using the @SpringBootApplication Annotation](./Developing/annot.md)
    - [Running Your Application](./Developing/running.md)
 4. [Spring Boot - REST API](./api.md)
 5. PROPERTIES:
