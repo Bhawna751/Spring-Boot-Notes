@@ -104,6 +104,7 @@ flowchart LR
    - [Spring Boot Overview](./Introduction/intro.md)
    - [Developing First Spring Boot Application](./Introduction/first.md)
 2. DEVELOPING WITH SPRING BOOT
+   - [Build Systems](./Developing/build.md)
    - [Configuration Class](./Developing/config.md)
    - [Auto-Configuration Class](./Developing/auto.md)
    - [Spring Beans and Dependency Injection](./Developing/injection.md)
